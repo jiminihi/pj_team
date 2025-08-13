@@ -1,2 +1,9 @@
-# pj_team
-team project 1to1
+# pj\_team
+
+
+
+\###기능정리
+
+* 환경설정
+* 회원가입
+* 로그인
